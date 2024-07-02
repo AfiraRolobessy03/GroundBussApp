@@ -1,0 +1,55 @@
+Source ;Relation;Targer 
+Application Service ;fotv;Application Process
+Application Service ;fotv;Application Function
+Application Service ;fotv;Application Interaction
+Application Service ;fotv;Application Event
+Application Service ;cfgostv;Application Service
+Application Service ;ao;Data Object
+Application Service ;fotv;Application Component
+Application Service ;fotv;Application Collaboration
+Application Interface ;fiotv;Application Service 
+Application Interface ;fotv;Application Component
+Application Interface ;fotv;Application Collaboration
+Application Component;fiortv;Application Service
+Application Component;fiortv;Application Process
+Application Component;fiortv;Application Function
+Application Component;fiortv;Application Interaction
+Application Component;fiortv;Application Event
+Application Collaboration;fiortv;Application Service
+Application Collaboration;fiortv;Application Process
+Application Collaboration;fiortv;Application Function
+Application Collaboration;fiortv;Application Interaction
+Application Collaboration;fiortv;Application Event
+Application Process;fiotv;Application Service
+Application Process;cfgostv;Application Process
+Application Process;cfgotv;Application Function
+Application Process;cfgotv;Application Interaction
+Application Process;ao;Data Object
+Application Process;cfgostv;Application Process
+Application Process;cfgotv;Application Function
+Application Process;cfgotv;Application Interaction
+Application Process;fotv;Application Event
+Application Function;fiotv;Application Service
+Application Function;cfgotv;Application Process
+Application Function;cfgostv;Application Function
+Application Function;cfgotv;Application Interaction
+Application Function;ao;Data Object
+Application Function;cfgotv;Application Process
+Application Function;cfgostv;Application Function
+Application Function;cfgotv;Application Interaction
+Application Function;fotv;Application Event
+Application Interaction;fiotv;Application Service
+Application Interaction;cfgotv;Application Process
+Application Interaction;cfgotv;Application Function
+Application Interaction;cfgostv;Application Interaction
+Application Interaction;ao;Data Object
+Application Interaction;cfgotv;Application Process
+Application Interaction;cfgotv;Application Function
+Application Interaction;cfgostv;Application Interaction
+Application Interaction;fotv;Application Event
+Application Event ;fotv;Application Process
+Application Event ;fotv;Application Function
+Application Event ;fotv;Application Interaction
+Application Event ;ao;Data Object
+Application Event ;fotv;Application Service
+Application Event ;cfgostv;Application Event 
